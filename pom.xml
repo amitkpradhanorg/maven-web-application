@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8083/repository/maven-profiles-snapshot/</url>
+	      <url>http://localhost:8083/repository/maven-web-application-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
